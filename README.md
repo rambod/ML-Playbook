@@ -1,7 +1,7 @@
 # ML_Playbook
 
 Welcome to ML_Playbook, your playbook for mastering machine learning with PyTorch!
-```
+
 ![PyTorch Logo](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)
 
 ## Introduction
@@ -25,7 +25,7 @@ To get started with ML_Playbook, make sure you have the following prerequisites 
 - NumPy
 - Matplotlib
 - Jupyter Notebook (for running tutorials)
-```
+
 You can install the required Python packages using pip:
 
 ```
