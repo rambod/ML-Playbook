@@ -40,11 +40,11 @@ cd ML_Playbook
 Tutorials
 The tutorials directory contains a series of step-by-step guides that cover the core concepts of PyTorch and its functionalities in machine learning. Each tutorial is presented as a Jupyter Notebook (.ipynb) for easy exploration and experimentation. Dive into the world of tensors, build your first neural network, and learn advanced techniques in model training and optimization.
 
-Sample Projects
-The sample-projects directory houses fully functional machine learning projects implemented using PyTorch. Each project comes with detailed documentation and a README that explains the dataset, problem statement, and the model architecture used. By exploring these sample projects, you'll gain insights into how to structure a machine learning project, handle data, and fine-tune your models for optimal performance.
+# Sample Projects
+* The sample-projects directory houses fully functional machine learning projects implemented using PyTorch. Each project comes with detailed documentation and a README that explains the dataset, problem statement, and the model architecture used. By exploring these sample projects, you'll gain insights into how to structure a machine learning project, handle data, and fine-tune your models for optimal performance.
 
-Contributing
-We welcome contributions from the community to enrich the ML_Playbook repository. Whether you want to fix a bug, improve the existing tutorials, or add new sample projects, your contributions are highly appreciated. To contribute, follow these steps:
+# Contributing
+* We welcome contributions from the community to enrich the ML_Playbook repository. Whether you want to fix a bug, improve the existing tutorials, or add new sample projects, your contributions are highly appreciated. To contribute, follow these steps:
 
 Fork the repository to your GitHub account.
 Create a new branch with a descriptive name for your changes.
@@ -53,8 +53,8 @@ Push your changes to your forked repository.
 Submit a pull request to the main repository.
 Before contributing, please review our Contribution Guidelines for more details.
 
-License
+# License
 The content of this repository is licensed under the MIT License. You are free to use, modify, and distribute the code and tutorials for educational and non-commercial purposes. However, we encourage you to provide attribution to ML_Playbook and its contributors when using this material.
 
-Contact
+# Contact
 If you have any questions or need further assistance, feel free to contact us at gh.rambod@gmail.com. We'd be glad to assist you in your machine learning journey!
